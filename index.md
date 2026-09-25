@@ -26,12 +26,15 @@ cover: true
 
 <h2 class="h1" style="color: {{site.theme_color}}" id="about">About Me </h2>
 
-I'm Cameron Trapp, a Postdoc in the [Physics & Astronomy Department](https://physics-astronomy.jhu.edu/) at Johns Hopkins University working in the the [FOGGIE collaboration](https://foggie.science/index.html). 
+I'm Cameron Trapp, a Postdoc in the [Physics & Astronomy Department](https://physics-astronomy.jhu.edu/) at Johns Hopkins University working in the the [FOGGIE collaboration](https://foggie.science/index.html).
  
-I recently completed my PhD in collaboration with Prof. [Dušan Kereš](https://cass.ucsd.edu/index.php/faculty:Dkeres) at the University of California, San Diego. My doctoral research focused on analyzing gas flows onto and through Milky-Way mass galactic disks utilizing cosmological zoom-in simulations as part of the Feedback in Realistic Environments ([FIRE](https://fire.northwestern.edu/)) collaboration. In addition, I analyzed various sources of Torque on this accreting gas to understand how it radially transports to fuel star forming regions in the inner disk. I am also working on creating a suite of synthetic HI observations in order to train convolutional neural networks to aid in interpretation of observations and facilitate direct observational comparisons. 
+I completed my PhD in collaboration with Prof. [Dušan Kereš](https://cass.ucsd.edu/index.php/faculty:Dkeres) at the University of California, San Diego. My doctoral research focused on analyzing gas flows onto and through Milky-Way mass galactic disks utilizing cosmological zoom-in simulations as part of the Feedback in Realistic Environments ([FIRE](https://fire.northwestern.edu/)) collaboration. In addition, I analyzed various sources of Torque on this accreting gas to understand how it radially transports to fuel star forming regions in the inner disk. I am also working on creating a suite of synthetic HI observations in order to train convolutional neural networks to aid in interpretation of observations and facilitate direct observational comparisons. 
+
+In 2024, I started my current position at Johns Hopkins, where I have continued to study cosmological simulations of galaxies, focusing on the evolution of the galactic disks and the tight coupling of the disk morphology to the local environment in which these systems reside. Given the exquisite resolution of the Circumgalactic Medium (the atmosphere around a galaxy) in the FOGGIE simulations, we were able to characterize the observability of the galactic and extragalactic Hydrogen in these systems by creating synthetic radio interferometeric images.
 
 
-In addition to research, I ran the Young Physicists Program ([YPP](https://ypp.ucsd.edu/)), an outreach organization that engages middle and high schoolers in actual physics experiments. Students are able to work directly with a variety of experiments, including mechanics, circuits, radioactive decay, and the infamous egg drop. In addition to managing/soliciting volunteer graduate students and professors, I work directly with the students during experiments and more advanced demonstrations. 
+
+In addition to research, I ran the Young Physicists Program ([YPP]), an outreach organization that engages middle and high schoolers in actual physics experiments. Students are able to work directly with a variety of experiments, including mechanics, circuits, radioactive decay, and the infamous egg drop. In addition to managing/soliciting volunteer graduate students and professors, I work directly with the students during experiments and more advanced demonstrations. 
 
 
 In my spare time I enjoy hiking and camping, as well as designing video games in Unity and Unreal Engine 5.
@@ -119,15 +122,19 @@ adding in additional simulation suites to the training set, so as not to be over
 parameters, and fitting 3D spatial maps to visualize observed galaxies.
 
 
+<h3 class="h2">The Formation and Evolution of Galactic Warps </h3>
+
+<figure>
+    <video width="600" height="auto" controls>
+        <source src="./assets/videos/napari_animation.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</figure>
+
+In the FOGGIE simulations, we find an interesting relationship between the local environment in which a galaxy resides and the structure of it's central disk. Essentially, the more satellites and misaligned, cold neutral gas there is near a galaxy, the more likely you are to have misaligned features. These features appear as warps in the outer regions of the galactic disk, or polar rings. In order to characterize such features, as well as facilitate the various other studies of clouds in the atmosphere of these systems, I developed an new clump finder to work with Adaptive Mesh Refinement codes, offering a significant speed up from existing tools. This allowed us to isolate and study these oddly shaped disks, as shown in the video above.
 
 
 
-
-<!-- <h3 class="h2">Past Projects</h3>
-**FILL IN**    
-*Advisor: [Adam Burgasser](https://cass.ucsd.edu/index.php/faculty:Aburgasser)*
-
-Description -->
 
 ---
 <h2 class="h1" style="color: {{site.theme_color}}" id="publications">Publications </h2>
@@ -138,6 +145,10 @@ A full list of my publications can be found on ADS [here](https://ui.adsabs.harv
 
   
 <h3 class="h2">First Author Publications</h3>
+[Figuring Out Gas and Galaxies in Enzo (FOGGIE). XIII. On the Observability of Extended H I Disks and Warps](https://ui.adsabs.harvard.edu/abs/2026ApJ..1005..217T/abstract)
+
+[FOGGIE: Figuring Out Gas and Galaxies In Enzo. XII. The Formation and Evolution of Extended H I Galactic Disks and Warps with a Dynamic Circumgalactic Medium](https://ui.adsabs.harvard.edu/abs/2026ApJ..1003..186T/abstract)
+
 [Angular momentum transfer in cosmological simulations of Milky Way-mass discs](https://arxiv.org/abs/2405.01632)
 
 [Gas infall and radial transport in cosmological simulations of Milky Way-mass discs](https://academic.oup.com/mnras/article/509/3/4149/6424962)
@@ -145,6 +156,10 @@ A full list of my publications can be found on ADS [here](https://ui.adsabs.harv
 [On the detection of high frequency correlations in resting state fMRI](https://www.sciencedirect.com/science/article/abs/pii/S1053811917300824?via%3Dihub)
 
 <h3 class="h2">Additional Publications</h3>
+[Figuring Out Gas & Galaxies in Enzo (FOGGIE). XV. Examining the Spatial and Kinematic Relationship between Circumgalactic Mg II and O V](https://arxiv.org/abs/2601.02348)
+
+[Figuring Out Gas & Galaxies In Enzo (FOGGIE). XIV. The Observability of Emission from Accretion and Feedback in the Circumgalactic Medium with Current and Future Instruments])(https://ui.adsabs.harvard.edu/abs/2026ApJ..1004....9S/abstract)
+
 [The impact of cosmic rays on dynamical balance and disc–halo interaction in L-star disc galaxies](https://academic.oup.com/mnras/article/517/1/597/6672585)
 
 [Hot-mode accretion and the physics of thin-disc galaxy formation](https://academic.oup.com/mnras/article/514/4/5056/6608273)
