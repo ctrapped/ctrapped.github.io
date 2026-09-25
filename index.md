@@ -147,7 +147,7 @@ A full list of my publications can be found on ADS [here](https://ui.adsabs.harv
 <h3 class="h2">First Author Publications</h3>
 [Figuring Out Gas and Galaxies in Enzo (FOGGIE). XIII. On the Observability of Extended H I Disks and Warps](https://ui.adsabs.harvard.edu/abs/2026ApJ..1005..217T/abstract)
 
-[FOGGIE: Figuring Out Gas and Galaxies In Enzo. XII. The Formation and Evolution of Extended H I Galactic Disks and Warps with a Dynamic Circumgalactic Medium](https://ui.adsabs.harvard.edu/abs/2026ApJ..1003..186T/abstract)
+[Figuring Out Gas and Galaxies In Enzo (FOGGIE). XII. The Formation and Evolution of Extended H I Galactic Disks and Warps with a Dynamic Circumgalactic Medium](https://ui.adsabs.harvard.edu/abs/2026ApJ..1003..186T/abstract)
 
 [Angular momentum transfer in cosmological simulations of Milky Way-mass discs](https://arxiv.org/abs/2405.01632)
 
@@ -158,7 +158,7 @@ A full list of my publications can be found on ADS [here](https://ui.adsabs.harv
 <h3 class="h2">Additional Publications</h3>
 [Figuring Out Gas & Galaxies in Enzo (FOGGIE). XV. Examining the Spatial and Kinematic Relationship between Circumgalactic Mg II and O V](https://arxiv.org/abs/2601.02348)
 
-[Figuring Out Gas & Galaxies In Enzo (FOGGIE). XIV. The Observability of Emission from Accretion and Feedback in the Circumgalactic Medium with Current and Future Instruments])(https://ui.adsabs.harvard.edu/abs/2026ApJ..1004....9S/abstract)
+[Figuring Out Gas & Galaxies In Enzo (FOGGIE). XIV. The Observability of Emission from Accretion and Feedback in the Circumgalactic Medium with Current and Future Instruments](https://ui.adsabs.harvard.edu/abs/2026ApJ..1004....9S/abstract)
 
 [The impact of cosmic rays on dynamical balance and disc–halo interaction in L-star disc galaxies](https://academic.oup.com/mnras/article/517/1/597/6672585)
 
